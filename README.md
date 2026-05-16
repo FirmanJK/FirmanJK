@@ -52,13 +52,14 @@ Status: 🟢 Available for Quests & Collaborations
 <td width="50%" valign="top">
 
 ### 🎨 Front-End Branch
+
 **UI/UX Magic**
 
 ```javascript
 const frontendSkills = {
-  languages: ["JavaScript", "Dart", "HTML5", "CSS3"],
-  frameworks: ["React.js", "Flutter", "Bootstrap"],
-  specialty: "Crafting Immersive User Experiences"
+  languages: ['JavaScript', 'Dart', 'HTML5', 'CSS3'],
+  frameworks: ['React.js', 'Flutter', 'Bootstrap'],
+  specialty: 'Crafting Immersive User Experiences',
 };
 ```
 
@@ -68,6 +69,7 @@ const frontendSkills = {
 <td width="50%" valign="top">
 
 ### ⚙️ Back-End Branch
+
 **Core Logic Engineering**
 
 ```python
@@ -87,6 +89,7 @@ backend_skills = {
 <td colspan="2" valign="top">
 
 ### 🧪 Data Alchemy Branch
+
 **AI & Analytics Sorcery**
 
 ```python
@@ -172,18 +175,18 @@ data_engineering = {
 
 ### 🏅 Digitalent Komdigi (Ministry of Communication & Digital)
 
-| Badge | Title | Issuer |
-|:---:|:---|:---|
-| 🥇 | **Associate Data Scientist** | Digital Talent Academy |
-| 🥈 | **Intermediate Junior Web Developer** | Vocational School Graduate Academy |
-| 🥉 | **Fundamental of AI Implementation** | Micro Skill |
+| Badge | Title                                 | Issuer                             |
+| :---: | :------------------------------------ | :--------------------------------- |
+|  🥇   | **Associate Data Scientist**          | Digital Talent Academy             |
+|  🥈   | **Intermediate Junior Web Developer** | Vocational School Graduate Academy |
+|  🥉   | **Fundamental of AI Implementation**  | Micro Skill                        |
 
 ### 🏅 IBM Certifications
 
-| Badge | Title |
-|:---:|:---|
-| 🔷 | **Data Classification & Summarization Using IBM Granite AI** |
-| 🔷 | **Getting Started with Cybersecurity Fundamentals** |
+| Badge | Title                                                        |
+| :---: | :----------------------------------------------------------- |
+|  🔷   | **Data Classification & Summarization Using IBM Granite AI** |
+|  🔷   | **Getting Started with Cybersecurity Fundamentals**          |
 
 </div>
 
@@ -211,6 +214,7 @@ data_engineering = {
 <div align="center">
 
 ### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -220,6 +224,7 @@ data_engineering = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -229,9 +234,87 @@ data_engineering = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](http
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Connect with the Developer
+
+<div align="center">
+
+```
+🤝 Open for collaboration on:
+   • Large-scale application development
+   • AI implementation & integration
+   • Data architecture & engineering
+   • Technical discussions & knowledge sharing
+```
+
+### 📬 Contact Channels
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px"/><br/>
+<b>LinkedIn</b><br/>
+<a href="https://www.linkedin.com/in/mochammad-firmandika-jati-kusuma">Connect</a>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50px"/><br/>
+<b>Email</b><br/>
+<a href="mailto:jatikusuma761@gmail.com">Send Mail</a>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="50px"/><br/>
+<b>WhatsApp</b><br/>
+<a href="https://wa.me/6287765556596">Chat Now</a>
+</td>
+<td align="center" width="25%">
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" width="50px"/><br/>
+<b>Portfolio</b><br/>
+<a href="https://firmanjk.fun/">Visit Site</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer's Wisdom
+
+_"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+
+```
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=FirmanJK&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+**⚡ Fun Fact:** I turn coffee into code and data into insights! ☕️💻
+
+---
+
+<sub>Made with 💚 by FirmanJK | Last Updated: 2026</sub>
+
+</div>
