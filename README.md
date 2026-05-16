@@ -1,208 +1,237 @@
 <div align="center">
-  
-# 🎮 Welcome to Mochammad Firmandika Jati Kusuma
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=64FFDA&center=true&vCenter=true&width=940&lines=Developer+%26+Data+Engineer;Building+Scalable+Digital+Solutions;Bridging+Code+and+Data" alt="Typing SVG" />
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ███████╗██╗██████╗ ███╗   ███╗ █████╗ ███╗   ██╗     ██╗██╗  ██╗      ║
+║   ██╔════╝██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║     ██║██║ ██╔╝      ║
+║   █████╗  ██║██████╔╝██╔████╔██║███████║██╔██╗ ██║     ██║█████╔╝       ║
+║   ██╔══╝  ██║██╔══██╗██║╚██╔╝██║██╔══██║██║╚██╗██║██   ██║██╔═██╗       ║
+║   ██║     ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║╚█████╔╝██║  ██╗      ║
+║   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝      ║
+║                                                                           ║
+║              🎮 Full-Stack Developer & Data Engineering Mage 🧙‍♂️           ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-firmanjk.fun-64FFDA?style=for-the-badge)](https://firmanjk.fun)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firmanjk)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatikusuma761@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Realm+%F0%9F%8C%8C;Building+Scalable+Applications+%F0%9F%9A%80;AI+%26+Data+Engineering+Enthusiast+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🎯 Quest Status
+## 🎯 Character Profile
 
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  🎓 Level: Informatics Engineering Student                  │
-│  🏛️  Guild: Politeknik Negeri Malang                        │
-│  ⚔️  Class: Full-Stack Developer & Data Engineer            │
-│  🏆 Achievement: Certified Associate Data Scientist          │
-│  💼 Current Quest: Building Data-Driven Solutions            │
-└─────────────────────────────────────────────────────────────┘
+```yaml
+Name: Mochammad Firmandika Jati Kusuma
+Alias: FirmanJK
+Class: Full-Stack Developer & Data Engineering Enthusiast
+Level: Informatics Engineering Student
+Guild: State Polytechnic of Malang
+Realm: Malang / Sidoarjo, East Java, Indonesia
+Status: 🟢 Available for Quests & Collaborations
 ```
-
-## 🛡️ Character Stats
 
 <div align="center">
 
-| Attribute               | Level      | Progress |
-| ----------------------- | ---------- | -------- |
-| 💻 **Development**      | ████████░░ | 80%      |
-| 📊 **Data Engineering** | ███████░░░ | 70%      |
-| 🤖 **Machine Learning** | ██████░░░░ | 60%      |
-| ☁️ **Cloud & DevOps**   | ██████░░░░ | 60%      |
-| 🎨 **UI/UX Design**     | ███████░░░ | 70%      |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mochammad-firmandika-jati-kusuma)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatikusuma761@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287765556596)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://firmanjk.fun/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FirmanJK)
 
 </div>
 
-## ⚔️ Skill Tree
+---
 
-### 🎯 Core Abilities
+## ⚔️ Skill Tree & Inventory
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Front-End Branch
+**UI/UX Magic**
 
 ```javascript
-const firmanJK = {
-  role: 'Developer & Data Engineer',
-  location: 'Malang, Indonesia',
-  currentFocus: ['Data Engineering', 'AI Integration', 'Scalable Systems'],
-
-  skills: {
-    frontend: ['React', 'Next.js', 'Vue.js', 'TailwindCSS', 'TypeScript'],
-    backend: ['Node.js', 'Express', 'FastAPI', 'Laravel', 'Django'],
-    mobile: ['React Native', 'Flutter', 'Kotlin'],
-    data: ['Python', 'Pandas', 'NumPy', 'SQL', 'Apache Spark'],
-    ml: ['TensorFlow', 'Scikit-learn', 'PyTorch'],
-    cloud: ['AWS', 'Google Cloud', 'Docker', 'Kubernetes'],
-    database: ['PostgreSQL', 'MongoDB', 'MySQL', 'Redis'],
-  },
-
-  achievements: [
-    '🏆 Certified Associate Data Scientist',
-    '🚀 Built ML-integrated community platforms',
-    '⚡ Automated administrative systems',
-    '📊 Data-driven organizational solutions',
-  ],
+const frontendSkills = {
+  languages: ["JavaScript", "Dart", "HTML5", "CSS3"],
+  frameworks: ["React.js", "Flutter", "Bootstrap"],
+  specialty: "Crafting Immersive User Experiences"
 };
 ```
 
-### 🔮 Magic Spells (Tech Stack)
+**Mastery Level:** ████████░░ 80%
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-#### Frontend Enchantments
+### ⚙️ Back-End Branch
+**Core Logic Engineering**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend Sorcery
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-#### Mobile Artifacts
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-#### Data Alchemy
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### Cloud Summoning
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### Database Grimoire
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
-## 📊 Battle Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FirmanJK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanJK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FirmanJK&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA)](https://git.io/streak-stats)
-
-</div>
-
-## 🏆 Achievement Unlocked
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=FirmanJK&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🎮 Current Side Quests
-
-```diff
-+ 🔨 Building ML-integrated community platforms
-+ 📊 Developing data pipeline automation tools
-+ 🤖 Exploring AI/ML model deployment strategies
-+ ☁️ Mastering cloud-native architectures
-+ 🚀 Contributing to open-source projects
+```python
+backend_skills = {
+    "languages": ["PHP", "Python", "Java"],
+    "frameworks": ["Laravel", "FastAPI", "Express.js", "Node.js"],
+    "databases": ["MySQL", "PostgreSQL"],
+    "specialty": "Building Robust Server Architecture"
+}
 ```
 
-## 💼 Epic Projects
+**Mastery Level:** ████████░░ 85%
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧪 Data Alchemy Branch
+**AI & Analytics Sorcery**
+
+```python
+data_engineering = {
+    "certification": "🏆 Certified Associate Data Scientist (Digitalent Komdigi)",
+    "workflows": ["ETL Pipeline Engineering via Pentaho"],
+    "tools": ["Google Colab", "Looker Studio", "IBM Granite AI", "Figma"],
+    "specialty": "Transforming Raw Data into Actionable Insights"
+}
+```
+
+**Mastery Level:** ███████░░░ 75%
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Completed Quests
+
+<details open>
+<summary><b>🌾 Jawara Marketplace</b> - Legendary Quest</summary>
+
+```
+📦 Integrated RT/RW Management Ecosystem
+🔧 Tech Stack: FastAPI, MySQL, Machine Learning, Computer Vision
+✨ Special Feature: Smart Camera with ML-powered food quality validation
+🎯 Impact: Automated local product quality assurance
+```
+
+**Quest Difficulty:** ⭐⭐⭐⭐⭐
+
+</details>
+
+<details>
+<summary><b>💼 Talent Hub</b> - Epic Quest</summary>
+
+```
+🎯 Smart Digital Career Ecosystem Platform
+🔧 Tech Stack: Flutter, Express.js
+✨ Special Feature: Precision job-candidate matching algorithm
+🎯 Impact: Accelerated recruitment process
+```
+
+**Quest Difficulty:** ⭐⭐⭐⭐
+
+</details>
+
+<details>
+<summary><b>📚 Pintara Kids</b> - Rare Quest</summary>
+
+```
+🎨 Interactive Educational PWA for Children
+🔧 Tech Stack: Progressive Web App
+✨ Special Feature: Offline-first story library & cognitive worksheets
+🎯 Impact: Accessible child-friendly learning platform
+```
+
+**Quest Difficulty:** ⭐⭐⭐⭐
+
+</details>
+
+<details>
+<summary><b>🎓 Internify & Sibeta</b> - Special Quest</summary>
+
+```
+🏫 Digital Platform for State Polytechnic of Malang
+🔧 Tech Stack: Grey Relational Analysis (GRA)
+✨ Special Feature: Automated internship matching & graduation clearance
+🎯 Impact: Real-time academic administration automation
+```
+
+**Quest Difficulty:** ⭐⭐⭐⭐
+
+</details>
+
+---
+
+## 🎖️ Achieved Titles & Badges
 
 <div align="center">
 
-| Project                   | Description                     | Tech Stack                     |
-| ------------------------- | ------------------------------- | ------------------------------ |
-| 🌐 **Community Platform** | ML-integrated social platform   | React, Node.js, TensorFlow     |
-| ⚡ **Admin Automation**   | Automated administrative system | Laravel, Vue.js, MySQL         |
-| 📊 **Data Pipeline**      | ETL pipeline for analytics      | Python, Apache Spark, AWS      |
-| 🎓 **Academic System**    | University information system   | Laravel, Bootstrap, PostgreSQL |
+### 🏅 Digitalent Komdigi (Ministry of Communication & Digital)
 
-</div>
+| Badge | Title | Issuer |
+|:---:|:---|:---|
+| 🥇 | **Associate Data Scientist** | Digital Talent Academy |
+| 🥈 | **Intermediate Junior Web Developer** | Vocational School Graduate Academy |
+| 🥉 | **Fundamental of AI Implementation** | Micro Skill |
 
-## 🎯 Boss Fights (Certifications)
+### 🏅 IBM Certifications
 
-- 🏆 **Certified Associate Data Scientist** - DataCamp
-- 📊 **Data Engineering Specialization** - In Progress
-- ☁️ **AWS Solutions Architect** - Preparing
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![FirmanJK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FirmanJK&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=C9D1D9)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-## 🤝 Join My Party
-
-<div align="center">
-
-I'm always open to collaborating on interesting projects and innovative ideas!
-
-**Let's build something amazing together! 🚀**
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-64FFDA?style=for-the-badge)](https://firmanjk.fun)
-[![Email](https://img.shields.io/badge/📧_Send_Quest_Request-D14836?style=for-the-badge)](mailto:jatikusuma761@gmail.com)
+| Badge | Title |
+|:---:|:---|
+| 🔷 | **Data Classification & Summarization Using IBM Granite AI** |
+| 🔷 | **Getting Started with Cybersecurity Fundamentals** |
 
 </div>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-### 💭 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
-
-<img src="https://komarev.com/ghpvc/?username=FirmanJK&label=Profile%20Views&color=64FFDA&style=for-the-badge" alt="Profile views" />
-
-**⭐ From [FirmanJK](https://github.com/FirmanJK) with 💚**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FirmanJK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanJK&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FirmanJK&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎮 Tech Stack Arsenal
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](http
