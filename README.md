@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🎮 Welcome to Mochammad Firmandika Jati Kusuma's
+# 🎮 Welcome to Mochammad Firmandika Jati Kusuma
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=64FFDA&center=true&vCenter=true&width=940&lines=Developer+%26+Data+Engineer;Building+Scalable+Digital+Solutions;Bridging+Code+and+Data" alt="Typing SVG" />
 
